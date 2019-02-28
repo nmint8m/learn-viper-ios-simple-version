@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.6.0)
+  - ObjectMapper (3.3.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftLint (0.25.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.6.0)
+  - ObjectMapper (= 3.3.0)
+  - SVProgressHUD (= 2.2.5)
+  - SwiftLint (= 0.25.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ObjectMapper
+    - SVProgressHUD
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftLint: e14651157288e9e01d6e1a71db7014fb5744a8ea
+
+PODFILE CHECKSUM: daadf4e2a2231e9f78ae178362edc75ebbb7ec68
+
+COCOAPODS: 1.5.3

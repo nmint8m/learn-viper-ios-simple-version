@@ -1,0 +1,211 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lvTbhK89DaXa1C59ZiGuVAgUBAk\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 2283,
+        "resultsPerPage": 5
+    },
+    "items": [
+              {
+              "kind": "youtube#playlist",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K7AzSwOmVt-ajcJRe6JuV0Pna7o\"",
+              "id": "PLbpi6ZahtOH5x6LOLVMHeY3JMdB4F_sSW",
+              "snippet": {
+              "publishedAt": "2018-09-05T16:21:47.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "U.N. International Day of Charity",
+              "description": "#CreatorsForChange presents videos that highlight the role of charity in helping those in need and alleviating human suffering.",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "localized": {
+              "title": "U.N. International Day of Charity",
+              "description": "#CreatorsForChange presents videos that highlight the role of charity in helping those in need and alleviating human suffering."
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlist",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HJocgRU0FDQvf-JeWaSuSCDSBZU\"",
+              "id": "PLbpi6ZahtOH6GBF9ndiXhhhNCm7VpHRKa",
+              "snippet": {
+              "publishedAt": "2018-08-31T19:32:26.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "Be Kind to Humankind Week",
+              "description": "#CreatorsForChange presents videos that celebrate the many ways people show each other kindness.",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/jT-nhBVxrqA/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/jT-nhBVxrqA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/jT-nhBVxrqA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/jT-nhBVxrqA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/jT-nhBVxrqA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "localized": {
+              "title": "Be Kind to Humankind Week",
+              "description": "#CreatorsForChange presents videos that celebrate the many ways people show each other kindness."
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlist",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uNH_jVsSgicH4Q1YMUcChCGF4Eg\"",
+              "id": "PLbpi6ZahtOH4YWtarZf7CYz_0b94HmVf_",
+              "snippet": {
+              "publishedAt": "2018-08-25T00:14:26.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "Women's Equality Day",
+              "description": "#CreatorsforChange presents videos that celebrate the rich history of women's equality in the U.S., from the suffrage movement to today.",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/HFsa2Ku1E_I/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/HFsa2Ku1E_I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/HFsa2Ku1E_I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/HFsa2Ku1E_I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/HFsa2Ku1E_I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "localized": {
+              "title": "Women's Equality Day",
+              "description": "#CreatorsforChange presents videos that celebrate the rich history of women's equality in the U.S., from the suffrage movement to today."
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlist",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NJ1l_kK0SqWXcv7wtjPnv5BjAFg\"",
+              "id": "PLbpi6ZahtOH5WgR8NbZJtSY6XkO0WQZVe",
+              "snippet": {
+              "publishedAt": "2018-08-16T18:15:55.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "World Humanitarian Day",
+              "description": "#CreatorsforChange presents videos that pay tribute to the humanitarian efforts by aid workers around the world.",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/kavB05H3g90/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/kavB05H3g90/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/kavB05H3g90/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/kavB05H3g90/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "localized": {
+              "title": "World Humanitarian Day",
+              "description": "#CreatorsforChange presents videos that pay tribute to the humanitarian efforts by aid workers around the world."
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlist",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5DtcGe2rRUC8osn4bheyT-_N0CA\"",
+              "id": "PLbpi6ZahtOH4FVhFP8Bch4p0Om-SkOww_",
+              "snippet": {
+              "publishedAt": "2018-08-09T16:07:46.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "International Day of the World's Indigenous Peoples",
+              "description": "#CreatorsforChange presents videos that celebrate indigenous voices from around the world.",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/XEzjA5RoLv0/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/XEzjA5RoLv0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/XEzjA5RoLv0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "localized": {
+              "title": "International Day of the World's Indigenous Peoples",
+              "description": "#CreatorsforChange presents videos that celebrate indigenous voices from around the world."
+              }
+              }
+              }
+              ]
+}

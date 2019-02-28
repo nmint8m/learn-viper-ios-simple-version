@@ -1,0 +1,236 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/60elC1k7EKZzzOyf4wqtIkDdbAI\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 5
+    },
+    "items": [
+              {
+              "kind": "youtube#playlistItem",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UAN_Hw1coDDIvLeCqvGc79W2TdI\"",
+              "id": "UExicGk2WmFodE9INXg2TE9MVk1IZVkzSk1kQjRGX3NTVy41NkI0NEY2RDEwNTU3Q0M2",
+              "snippet": {
+              "publishedAt": "2018-09-05T16:22:47.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "What Charity Really Means",
+              "description": "We’re used to thinking that charity just means giving poorer people money. In fact, it’s about extending sympathy to another human being – who may be us.  If you like our films, take a look at our shop (we ship worldwide):  http://bit.ly/29Hefpf \n\nWatch more films on SELF in our playlist:\nhttp://bit.ly/TSOLself\n\n\nFURTHER READING\n\n\"It is one of the seven virtues of Christianity. It used to have a central place in Roman ethics and Judaism as well. Today, we remain deeply impressed by the idea of charity, but often from a distance, without probing the concept too deeply, with little attempt to practise it systematically. It’s something we might have recourse to when we’re moved by a documentary on the TV or have some loose change left over after the holidays....\"\n\nYou can read more about this an other topics on our blog TheBookofLife.org:  http://bit.ly/29OXFUn \n\n\nSOCIAL MEDIA\n\nFeel free to follow us at the links below:\n\nFacebook: https://www.facebook.com/theschooloflifelondon/\n\nTwitter: https://twitter.com/TheSchoolOfLife \n\nInstagram: https://www.instagram.com/theschooloflifelondon/\n\n\nCREDITS\n\nProduced in collaboration with Mike Booth\nhttp://www.youtube.com/somegreybloke #TheSchoolOfLife",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/EPjhpXTpHjs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "playlistId": "PLbpi6ZahtOH5x6LOLVMHeY3JMdB4F_sSW",
+              "position": 0,
+              "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "EPjhpXTpHjs"
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlistItem",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UcaYyqpg1M9vlLOcBRnKBYO9HEo\"",
+              "id": "UExicGk2WmFodE9INXg2TE9MVk1IZVkzSk1kQjRGX3NTVy4yODlGNEE0NkRGMEEzMEQy",
+              "snippet": {
+              "publishedAt": "2018-09-05T16:22:56.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "Fun and Easy Fundraising Ideas",
+              "description": "How to raise money for charity and have fun doing it!\n\nMore great fundraising ideas: http://www.savethechildren.org.uk/fundraising-ideas\n\nOr donate money online: https://secure.savethechildren.org.uk...\n\nWe Tweet: http://twitter.com/savechildrenuk",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/AvOp3Swjj0w/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/AvOp3Swjj0w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/AvOp3Swjj0w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/AvOp3Swjj0w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/AvOp3Swjj0w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "playlistId": "PLbpi6ZahtOH5x6LOLVMHeY3JMdB4F_sSW",
+              "position": 1,
+              "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "AvOp3Swjj0w"
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlistItem",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-El5V0jq6S3Gz9-sSAtEfqSlas8\"",
+              "id": "UExicGk2WmFodE9INXg2TE9MVk1IZVkzSk1kQjRGX3NTVy4wMTcyMDhGQUE4NTIzM0Y5",
+              "snippet": {
+              "publishedAt": "2018-09-05T16:23:08.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "The Science of Giving",
+              "description": "www.lifevestinside.com/donate\n\nLearn why Giving feels so good and how Life Vest Inside has dedicated itself to give to the world at large!\n\nToday, consider giving to an organization that is constantly giving back! \n\nRemember, it’s not about how much you give, it’s about taking part in the “giving game”\n\nMake YOUR Life Vest Inside GIVE Today!\n\nVisit lifevestinside.com/donate \n\nGiving is just a click away!\n\nLike us on Facebook: http://www.facebook.com/lifevestinside\nFollow us on Twitter: http://www.twitter.com/lifevestinside\nFollow us on Instagram: http://www.instagram.com/lifevestinside\nFollow us on Linkedin: https://www.linkedin.com/company/5018...\nConnect with our founder: https://www.facebook.com/orlyfwahba\n\nLearn more about Life Vest Inside by visiting our site! http://www.lifevestinside.com\n\nLife Vest Inside is a 501(c)3 non-profit organization. All donations are 100% tax-deductible. Help us with future projects! \nhttps://donatenow.networkforgood.org/...\n\n\nEmail: info@lifevestinside.com with questions or inquiries!",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/2sOE_PcnePE/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/2sOE_PcnePE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/2sOE_PcnePE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/2sOE_PcnePE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/2sOE_PcnePE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "playlistId": "PLbpi6ZahtOH5x6LOLVMHeY3JMdB4F_sSW",
+              "position": 2,
+              "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "2sOE_PcnePE"
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlistItem",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O0CnwZci5O-aoh5iqxldTQKpRA0\"",
+              "id": "UExicGk2WmFodE9INXg2TE9MVk1IZVkzSk1kQjRGX3NTVy41MjE1MkI0OTQ2QzJGNzNG",
+              "snippet": {
+              "publishedAt": "2018-09-05T16:23:18.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "How to Start Your Own Charity",
+              "description": "Want to give back? Cat has a list of things you need to think about before you take the plunge!\n\nAnd for more life hacks, check out our new show, Everyday Guide, on Go90. Download the app now at go90.com.\n\nCATRIFIC\nYouTube: https://www.youtube.com/user/catrific/\nFacebook: https://www.facebook.com/catrific\nTwitter: https://twitter.com/catrific\nInstagram: https://www.instagram.com/catrific\n\n∞ Subscribe to ICON: http://goo.gl/DptTm ∞ \n\nICON network on the Web:\nhttp://youtube.com/ICONnetwork \nhttp://facebook.com/ICONnetwork \nhttp://twitter.com/ICONnetwork \nhttp://pinterest.com/ICONnetwork \nhttp://instagram.com/ICONnetwork \nhttp://google.com/+ICONnetwork \nhttp://icon.network\n\nGet the ICON app for iOS and Android now: http://icon.network/s/iconapp\n\nFollow our UK friends: \nhttp://youtube.com/iconnetworkuk\nhttp://facebook.com/iconnetworkuk\nhttp://twitter.com/iconnetworkuk\nhttp://instagram.com/iconnetworkuk\n\nICONnetwork is a lifestyle network by Michelle Phan.\n\nMichelle Phan\nYouTube: http://bitly.com/MichellePhanYT\nFacebook: http://bit.ly/MichellePhanFB\nTwitter: http://bit.ly/MichelleTweets",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/XQdekLt7Tw8/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/XQdekLt7Tw8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/XQdekLt7Tw8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/XQdekLt7Tw8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/XQdekLt7Tw8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "playlistId": "PLbpi6ZahtOH5x6LOLVMHeY3JMdB4F_sSW",
+              "position": 3,
+              "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "XQdekLt7Tw8"
+              }
+              }
+              },
+              {
+              "kind": "youtube#playlistItem",
+              "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UZ5FO5IWipL18CUVOgA-QFYtxtQ\"",
+              "id": "UExicGk2WmFodE9INXg2TE9MVk1IZVkzSk1kQjRGX3NTVy4wOTA3OTZBNzVEMTUzOTMy",
+              "snippet": {
+              "publishedAt": "2018-09-05T16:23:30.000Z",
+              "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+              "title": "Adam Ruins Everything - Why You Shouldn't Donate Canned Food to Charities",
+              "description": "Hunger is a real problem, but canned food drives are a terrible solution. Adam explains why.\n\nSubscribe: http://full.sc/1s9KQGe\n\nIn Adam Ruins Everything, host Adam Conover employs a combination of comedy, history and science to dispel widespread misconceptions about everything we take for granted. A blend of entertainment and enlightenment, Adam Ruins Everything is like that friend who knows a little bit too much about everything and is going to tell you about it... whether you like it or not. \n\ntruTV Official Site: http://www.trutv.com/\nLike truTV on Facebook:  https://www.facebook.com/truTV\nFollow truTV on Twitter: https://twitter.com/truTV\nFollow truTV on Tumblr: http://trutv.tumblr.com/\nGet the truTV app on Google Play: http://bit.ly/1eYxjPP\nGet the truTV app on iTunes: http://apple.co/1JiGkjh\n\ntruTV\nThe New truTV Is Way More Fun!\nWatch clips, sneak peeks and exclusives from original shows like Adam Ruins Everything, Friends of the People, Hack My Life and more – plus fresh video from hit shows like Impractical Jokers and The Carbonaro Effect. \n\nAdam Ruins Everything - Why You Shouldn't Donate Canned Food to Charities",
+              "thumbnails": {
+              "default": {
+              "url": "https://i.ytimg.com/vi/XbYInILDj6Q/default.jpg",
+              "width": 120,
+              "height": 90
+              },
+              "medium": {
+              "url": "https://i.ytimg.com/vi/XbYInILDj6Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+              },
+              "high": {
+              "url": "https://i.ytimg.com/vi/XbYInILDj6Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+              },
+              "standard": {
+              "url": "https://i.ytimg.com/vi/XbYInILDj6Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+              },
+              "maxres": {
+              "url": "https://i.ytimg.com/vi/XbYInILDj6Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+              }
+              },
+              "channelTitle": "YouTube Spotlight",
+              "playlistId": "PLbpi6ZahtOH5x6LOLVMHeY3JMdB4F_sSW",
+              "position": 4,
+              "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "XbYInILDj6Q"
+              }
+              }
+              }
+              ]
+}
