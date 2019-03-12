@@ -2,6 +2,9 @@
 
 *Written by: __Nguyen Minh Tam__*
 
+Source code được viết cho bài này là một ứng dụng nhỏ bao gồm các màn hình: Login, Category List và Category Detail.
+
+
 
 ### Các phần chính của VIPER:
 
@@ -12,8 +15,10 @@
  - Phản hồi tại tác vụ của người dùng (bằng cách yêu cầu dữ liệu mới tới Interactor)
 - Entity: Chứa model object cơ bản được sử dụng bởi Interactor
 - Router: Chứa navigation logic để biết được màn hình nào được hiển thị và hiển thị theo thứ tự nào.
- 
-![img-viper-framework](https://github.com/nmint8m/demoviper/blob/master/README%20Images/img-viper-framework.png)
+
+<center>
+	<img src="./Images/img-viper-framework.png" height="300"> 
+</center>
 
 
 
@@ -122,7 +127,9 @@ Presenter còn có nhiệm vụ nhận kết quả từ Interactor và chuyển 
 
 Quay lại với ví dụ màn hình login:
 
-![img-login-screen](https://github.com/nmint8m/demoviper/blob/master/README%20Images/img-login-screen.png)
+<center>
+	<img src="./Images/img-login-screen.png" height="600">
+</center>
 
 Khi người dùng chọn nút Login ở View, View sẽ yêu cầu Presenter xử lý tác vụ validate username và password. Presenter tiếp tục yêu cầu Interactor xử lý hai tác vụ trên và trả về kết quả. Nếu có lỗi với dữ liệu nhập thì Presenter yêu cầu View hiển thị lỗi, còn những lỗi khác thì Presenter yêu cầu Router hiển thị arlert. Nếu không có lỗi thì Presenter yêu cầu Router hiển thị category list.
 
@@ -412,7 +419,7 @@ final class LoginRouter: Router {
 }
 ```
 
-Và sau đó, không có sau đó nữa. 🤣 Tài liệu về VIPER của mình đến đây là hết. 🤣
+Và sau đó, không có sau đó nữa. 🤣 Tài liệu về VIPER của mình đến đây là hết. 🤣 Cám ơn các bạn đã đọc đến đây và hãy rải 🌟 cho mình nhé!
 
 
 
