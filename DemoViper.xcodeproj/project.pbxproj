@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1DE733AF1E2F1E2BBB6B366C /* Pods_DemoViper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2795F8E34B93C46E05C8BDA /* Pods_DemoViper.framework */; };
 		223AB5642224DF740088C759 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 223AB5632224DF740088C759 /* CategoryModel.swift */; };
 		2245774221EAE1F0005B5EC3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2245774121EAE1F0005B5EC3 /* AppDelegate.swift */; };
 		2245774921EAE1F2005B5EC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2245774821EAE1F2005B5EC3 /* Assets.xcassets */; };
@@ -38,7 +37,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		05F590A0D597B0A32009BE85 /* Pods-DemoViper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoViper.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DemoViper/Pods-DemoViper.debug.xcconfig"; sourceTree = "<group>"; };
 		223AB5632224DF740088C759 /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
 		2245773E21EAE1F0005B5EC3 /* DemoViper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoViper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2245774121EAE1F0005B5EC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -68,8 +66,6 @@
 		22AC05292224F90D00673C2C /* CategoryDetailPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryDetailPresenter.swift; sourceTree = "<group>"; };
 		22AC052B2224F91C00673C2C /* CategoryDetailInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryDetailInteractor.swift; sourceTree = "<group>"; };
 		22AC052D2224F92800673C2C /* CategoryDetailRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryDetailRouter.swift; sourceTree = "<group>"; };
-		A2795F8E34B93C46E05C8BDA /* Pods_DemoViper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DemoViper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ACC0FFDF98630F77E596A328 /* Pods-DemoViper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoViper.release.xcconfig"; path = "Pods/Target Support Files/Pods-DemoViper/Pods-DemoViper.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +73,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1DE733AF1E2F1E2BBB6B366C /* Pods_DemoViper.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -89,8 +84,6 @@
 			children = (
 				2245774021EAE1F0005B5EC3 /* DemoViper */,
 				2245773F21EAE1F0005B5EC3 /* Products */,
-				3E82ADB95BBAB512264B7255 /* Pods */,
-				3AB8430BA5C3AE62CAFFCC70 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -257,23 +250,6 @@
 			path = "002-CategoryDetail";
 			sourceTree = "<group>";
 		};
-		3AB8430BA5C3AE62CAFFCC70 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				A2795F8E34B93C46E05C8BDA /* Pods_DemoViper.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		3E82ADB95BBAB512264B7255 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				05F590A0D597B0A32009BE85 /* Pods-DemoViper.debug.xcconfig */,
-				ACC0FFDF98630F77E596A328 /* Pods-DemoViper.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -281,11 +257,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2245775021EAE1F2005B5EC3 /* Build configuration list for PBXNativeTarget "DemoViper" */;
 			buildPhases = (
-				822A92E43989F1E986FA82B0 /* [CP] Check Pods Manifest.lock */,
 				2245773A21EAE1F0005B5EC3 /* Sources */,
 				2245773B21EAE1F0005B5EC3 /* Frameworks */,
 				2245773C21EAE1F0005B5EC3 /* Resources */,
-				755BA6269E9643674E492308 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -342,57 +316,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		755BA6269E9643674E492308 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-DemoViper/Pods-DemoViper-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
-				"${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework",
-				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ObjectMapper.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DemoViper/Pods-DemoViper-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		822A92E43989F1E986FA82B0 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-DemoViper-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2245773A21EAE1F0005B5EC3 /* Sources */ = {
@@ -546,7 +469,6 @@
 		};
 		2245775121EAE1F2005B5EC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 05F590A0D597B0A32009BE85 /* Pods-DemoViper.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -560,13 +482,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.nmint8m.demoviper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		2245775221EAE1F2005B5EC3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ACC0FFDF98630F77E596A328 /* Pods-DemoViper.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -580,7 +501,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.nmint8m.demoviper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

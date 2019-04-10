@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import Alamofire
 
 typealias JSObject = [String: Any]
 typealias JSArray = [JSObject]
@@ -16,6 +15,11 @@ typealias Completion = (Result<Any>) -> Void
 
 enum CompletionResult {
     case success
+    case failure(Error)
+}
+
+enum Result<Value> {
+    case success(Value)
     case failure(Error)
 }
 

@@ -1,4 +1,4 @@
-## Demo VIPER Framework
+## Demo VIPER Architecture
 
 *Written by: __Nguyen Minh Tam__*
 
@@ -19,7 +19,6 @@ Source code được viết cho bài này là một ứng dụng nhỏ bao gồm
 <center>
 	<img src="./Images/img-viper-framework.png" height="300"> 
 </center>
-
 
 
 ### Thứ tự implementing VIPER
@@ -127,9 +126,9 @@ Presenter còn có nhiệm vụ nhận kết quả từ Interactor và chuyển 
 
 Quay lại với ví dụ màn hình login:
 
-<center>
-	<img src="./Images/img-login-screen.png" height="600">
-</center>
+| <img src="./Images/img-login-screen.png" height="600"> | <img src="./Images/img-login-screen-fail.png" height="600"> |
+|---|---|
+| Màn hình login | Lỗi validate dữ liệu |
 
 Khi người dùng chọn nút Login ở View, View sẽ yêu cầu Presenter xử lý tác vụ validate username và password. Presenter tiếp tục yêu cầu Interactor xử lý hai tác vụ trên và trả về kết quả. Nếu có lỗi với dữ liệu nhập thì Presenter yêu cầu View hiển thị lỗi, còn những lỗi khác thì Presenter yêu cầu Router hiển thị arlert. Nếu không có lỗi thì Presenter yêu cầu Router hiển thị category list.
 
@@ -419,9 +418,7 @@ final class LoginRouter: Router {
 }
 ```
 
-Và sau đó, không có sau đó nữa. 🤣 Tài liệu về VIPER của mình đến đây là hết. 🤣 Cám ơn các bạn đã đọc đến đây và hãy rải 🌟 cho mình nhé!
-
-
+Và sau đó, không có sau đó nữa. 🤣 Tài liệu về VIPER của mình đến đây là hết. Cám ơn các bạn đã đọc đến đây và hãy ủng hộ mình bằng cách rải 🌟 cho mình nhé!
 
 ### Reference:
 
